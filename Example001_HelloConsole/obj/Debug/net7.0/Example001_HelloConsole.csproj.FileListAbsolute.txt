@@ -1,0 +1,15 @@
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.deps.json
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.runtimeconfig.json
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.dll
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.dll
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/refint/Example001_HelloConsole.dll
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/kirito/Desktop/Первый Урок Програмирования/Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
